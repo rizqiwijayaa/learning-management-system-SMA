@@ -1,17 +1,23 @@
-# lms_guru
+# Learning Management System SMA
 
-A new Flutter project.
+Learning Management System (LMS) berbasis web dan mobile untuk membantu kegiatan pembelajaran di tingkat SMA, mulai dari pengelolaan kelas, materi, tugas, aktivitas siswa, hingga berbagai kebutuhan akademik guru dan siswa.
 
-## Getting Started
+## Tentang Project
 
-This project is a starting point for a Flutter application.
+Project ini dikembangkan sebagai sistem pembelajaran digital yang dapat digunakan melalui aplikasi mobile maupun web. LMS menyediakan beberapa jenis akses pengguna dengan fitur yang disesuaikan berdasarkan peran masing-masing.
 
-A few resources to get you started if this is your first Flutter project:
+## Teknologi
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter & Dart
+- Node.js
+- MySQL
+- REST API
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Platform
+
+- Android
+- Web
+
+## Catatan
+
+Data yang terdapat pada project ini merupakan data dummy yang digunakan untuk keperluan pengembangan dan demonstrasi.
